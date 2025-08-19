@@ -106,5 +106,5 @@ All rights reserved by the author. 🛡️ No copying, modification, or redistri
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/PurplePoet25)
+Hasan Bukhari - [GitHub Profile](https://github.com/PurplePoet25)
 
